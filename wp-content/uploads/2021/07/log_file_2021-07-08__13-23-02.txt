@@ -1,0 +1,158 @@
+
+---Downloaded files---
+The import files for: Big Store Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/GrabIt
+Data file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-content-import-file_2021-07-08__13-23-02.xml
+Widget file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-08__13-23-02.json
+Customizer file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-08__13-23-02.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products - Products - Imported
+
+Footer Widget Area 1 : 
+
+Text - More About Store - Imported
+
+Footer Widget Area 2 : 
+
+Text - Offline Stores - Imported
+
+Footer Widget Area 3 : 
+
+Text - Contact Details - Imported
+
+Footer Widget Area 4 : 
+
+Image - Download App - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products - Popular Products - Imported
+Recent Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

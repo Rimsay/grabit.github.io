@@ -1,0 +1,4 @@
+2021-08-15T09:43:56+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 32768 bytes) in C:\xampp\htdocs\GrabIt\wp-includes\widgets\class-wp-widget-text.php on line 1
+
+2021-08-15T09:56:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\GrabIt\wp-includes\Requests\Transport\cURL.php on line 463
+

@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Big Store Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/GrabIt
+Data file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-content-import-file_2021-07-08__13-45-07.xml
+Widget file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-08__13-45-07.json
+Customizer file = C:\xampp\htdocs\GrabIt/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-08__13-45-07.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products - Products - Widget already exists
+
+Footer Widget Area 1 : 
+
+Text - More About Store - Widget already exists
+
+Footer Widget Area 2 : 
+
+Text - Offline Stores - Widget already exists
+
+Footer Widget Area 3 : 
+
+Text - Contact Details - Widget already exists
+
+Footer Widget Area 4 : 
+
+Image - Download App - Widget already exists
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Products - Popular Products - Widget already exists
+Recent Posts - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
